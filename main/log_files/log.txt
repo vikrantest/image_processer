@@ -1,0 +1,5 @@
+oboe, hautboy, hautbois (score = 0.08007)
+jersey, T-shirt, tee shirt (score = 0.04477)
+bassoon (score = 0.03914)
+accordion, piano accordion, squeeze box (score = 0.02529)
+maraca (score = 0.02344)
